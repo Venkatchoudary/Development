@@ -6,3 +6,5 @@ Merge conflict Test
 
 Merge conflict Demo
 
+stash test
+
