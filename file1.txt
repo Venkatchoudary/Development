@@ -1,1 +1,3 @@
 New file added to master branch and intial commit in master
+
+conflict demo
