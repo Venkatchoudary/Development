@@ -3,3 +3,6 @@ New file added to master branch and intial commit in master
 conflict demo
 
 Merge conflict Test
+
+Merge conflict Demo
+
