@@ -1,0 +1,1 @@
+this is file3 used for testing merge command from one branch other branch i.e master
