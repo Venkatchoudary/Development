@@ -1,0 +1,2 @@
+testing stash in middle of development
+we can stop and move to other feature development without losing the already completed work by just saving it using: git stash 
